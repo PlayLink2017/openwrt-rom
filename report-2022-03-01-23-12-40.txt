@@ -1,0 +1,616 @@
+AIDA64 for Android v1.85 Report
+
+<<< Sistema >>>
+
+Fabricante: Allwinner
+Modelo: TV BOX
+Marca: Allwinner
+Placa: exdroid
+Dispositivo: dolphin-fvd-p1
+Hardware: sun8iw7p1
+Plataforma: dolphin
+Produto: dolphin_fvd_p1
+Número de série: 34017922055404000085
+Memória Total: 32,00 GB
+Memória disponível: 492 MB
+Armazenamento Interno - Espaço Total: 4269 MB
+Armazenamento Interno - Espaço Livre: 2335 MB
+Versao do Bluetooth: 4+
+Características do Dispositivo: android.hardware.audio.low_latency
+android.hardware.audio.output
+android.hardware.audio.pro
+android.hardware.bluetooth
+android.hardware.bluetooth_le
+android.hardware.camera
+android.hardware.camera.any
+android.hardware.camera.autofocus
+android.hardware.camera.capability.manual_post_processing
+android.hardware.camera.capability.manual_sensor
+android.hardware.camera.capability.raw
+android.hardware.camera.flash
+android.hardware.camera.front
+android.hardware.camera.level.full
+android.hardware.ethernet
+android.hardware.faketouch
+android.hardware.fingerprint
+android.hardware.location
+android.hardware.location.gps
+android.hardware.location.network
+android.hardware.microphone
+android.hardware.nfc
+android.hardware.nfc.hce
+android.hardware.nfc.hcef
+android.hardware.opengles.aep
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.sensor.accelerometer
+android.hardware.sensor.barometer
+android.hardware.sensor.compass
+android.hardware.sensor.gyroscope
+android.hardware.sensor.hifi_sensors
+android.hardware.sensor.light
+android.hardware.sensor.proximity
+android.hardware.sensor.stepcounter
+android.hardware.sensor.stepdetector
+android.hardware.telephony
+android.hardware.telephony.cdma
+android.hardware.telephony.gsm
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.type.television
+android.hardware.usb.accessory
+android.hardware.usb.host
+android.hardware.vulkan.level
+android.hardware.vulkan.version
+android.hardware.wifi
+android.hardware.wifi.direct
+android.software.app_widgets
+android.software.backup
+android.software.connectionservice
+android.software.device_admin
+android.software.freeform_window_management
+android.software.home_screen
+android.software.input_methods
+android.software.live_wallpaper
+android.software.managed_users
+android.software.midi
+android.software.picture_in_picture
+android.software.pppoe
+android.software.print
+android.software.sip
+android.software.sip.voip
+android.software.verified_boot
+android.software.voice_recognizers
+android.software.vr.mode
+android.software.webview
+com.nxp.mifare
+
+<<< Processador >>>
+
+Chipset: Allwinner H3
+Arquitetura do Núcleo: 4x ARM Cortex-A7 @ 1008 MHz
+Processo de Fabricaçao: 40 nm
+Conjunto de Instruçoes: 32-bit ARMv7
+Revisao: r0p5
+Núcleos: 4 Núcleos
+Faixa de Velocidade da CPU: 480 - 1008 MHz
+Velocidade do Núcleo 1: 1008 MHz
+Velocidade do Núcleo 2: 1008 MHz
+Velocidade do Núcleo 3: 1008 MHz
+Velocidade do Núcleo 4: 1008 MHz
+Utilizaçao da CPU: 39 %
+ABIs Suportadas: armeabi-v7a, armeabi
+ABIs de 32-bits Suportadas: armeabi-v7a, armeabi
+AES: Não suportado
+NEON: Suportado
+PMULL: Não suportado
+SHA1: Não suportado
+SHA2: Não suportado
+
+<<< Tela >>>
+
+Resoluçao: 1280 * 720
+Tamanho: 153 mm × 86 mm
+Diagonal: 6,89 inches
+Densidade: 213 dpi (mdpi)
+xdpi / ydpi: 213 / 213 dpi
+GPU Fornecedor: ARM
+GPU Renderizador: Mali-400 MP
+GPU Cores: 2
+Taxa de atualizaçao: 60 Hz
+Orientaçao Padrao: Paisagem
+Versao do OpenGL ES: 2.0
+Versao da GPU: OpenGL ES 2.0
+Extensoes OpenGL ES: GL_EXT_debug_marker
+GL_OES_texture_npot
+GL_OES_vertex_array_object
+GL_OES_compressed_ETC1_RGB8_texture
+GL_EXT_compressed_ETC1_RGB8_sub_texture
+GL_OES_standard_derivatives
+GL_OES_EGL_image
+GL_OES_depth24
+GL_ARM_rgba8
+GL_ARM_mali_shader_binary
+GL_OES_depth_texture
+GL_OES_packed_depth_stencil
+GL_EXT_texture_format_BGRA8888
+GL_OES_vertex_half_float
+GL_EXT_blend_minmax
+GL_OES_EGL_image_external
+GL_OES_EGL_sync
+GL_OES_rgb8_rgba8
+GL_EXT_multisampled_render_to_texture
+GL_EXT_discard_framebuffer
+GL_OES_get_program_binary
+GL_ARM_mali_program_binary
+GL_EXT_shader_texture_lod
+GL_EXT_robustness
+GL_OES_depth_texture_cube_map
+GL_KHR_debug
+GL_ARM_shader_framebuffer_fetch
+GL_ARM_shader_framebuffer_fetch_depth_stencil
+GL_OES_mapbuffer
+
+<<< Rede >>>
+
+<< Telefone >>
+Tipo de Telefone: GSM
+Estado do SIM: Desconhecido
+Cartao ICC: Ausente
+
+<< Wi-Fi >>
+Estado: Ativado
+SSID: "Zi"
+BSSID: ec:41:18:2d:8e:72
+SSID Oculta: Não
+Endereço IPv4: 192.168.1.117
+Endereço IPv6: fdab:afaf:cad5:0:d0d:6ecb:6d65:ab6e
+Intensidade do Sinal: -64 dBm (Muito Bom)
+Velocidade do Link: 72 Mbps
+Frequencia: 2462 MHz
+ID da Rede: 0
+Gateway: 192.168.1.1
+Máscara da Rede: 255.255.255.0
+DNS1: 192.168.1.1
+Tempo de Expiraçao do DHCP: 12 horas
+Banda de 5 GHz: Não suportado
+Wi-Fi Aware: Não suportado
+Wi-Fi Direct: Suportado
+
+<<< Bateria >>>
+
+Fonte de potencia: Carregador A/C
+Nível: 100 %
+Status: Carregando
+Condição: Boa
+Temperatura: 42,4°C
+
+<<< Android >>>
+
+Versao do Android: 7.0 (Nougat)
+Nível da API: 24
+Nível de Patch de Segurança do Android: 2021-07-05
+Dispositivo ROOTado: Sim
+Identificaçao do Android: 9dc05f4873fc1d52
+Build ID: dolphin_fvd_p1-eng 7.0 NRD91N 20211007141321 test-keys
+Codinome: REL
+Fingerprint: Allwinner/dolphin_fvd_p1/dolphin-fvd-p1:7.0/NRD91N/20211007141321:eng/test-keys
+ID: NRD91N
+Incremento: 20211007141321
+Versao Java Runtime: Android Runtime 0.9
+Versao da Java VM: ART 2.1.0
+Java VM Heap Size: 192 MB
+Arquitetura do Kernel: armv7l
+Versao do Kernel: 4.4.55 (akrd2@R740XD) (gcc version 5.3.1 20160412 (Linaro GCC 5.3-2016.05) ) #1 SMP PREEMPT Thu Oct 7 14:08:21 CST 2021
+Tags: test-keys
+Tipo: eng
+Versão do Serviço Google Play: 9.8.77 (438-135396225)
+Versão do Serviço Huawei Mobile: < Ausente >
+Versao OpenSSL: BoringSSL
+Versao ZLib: 1.2.8
+Versao do CLDR do ICU: 28.0
+Versao da Biblioteca ICU: 56.1
+Versao do Unicode do ICU: 8.0
+Idioma Android: português (Brasil)
+Fuso Horário Configurado: Horário Padrão de Brasília (UTC-03:00)
+Tempo de Atividade: 00:11:13
+
+<<< Dispositivos >>>
+
+<< Dispositivos USB - USB OPTICAL MOUSE >>
+Produto: USB OPTICAL MOUSE
+Identificador do dispositivo: 0000-3825
+Classe de dispositivo: 00 / 00
+Protocolo de dispositivo: 00
+Revisão: 0100
+Versao de USB suportada: 1.10
+Potencia máxima: 100 mA
+
+<< Dispositivos USB - USB USB Keyboard >>
+Fabricante: USB
+Produto: USB Keyboard
+Identificador do dispositivo: 1A2C-2D23
+Classe de dispositivo: 00 / 00
+Protocolo de dispositivo: 00
+Revisão: 0110
+Versao de USB suportada: 1.10
+Potencia máxima: 100 mA
+
+<< Dispositivos USB - Linux 4.4.55 ehci_hcd SW USB2.0 'Enhanced' Host Controller (EHCI) Driver >>
+Fabricante: Linux 4.4.55 ehci_hcd
+Produto: SW USB2.0 'Enhanced' Host Controller (EHCI) Driver
+Número de série: sunxi-ehci
+Identificador do dispositivo: 1D6B-0002
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 2.00
+Velocidade atual: 480 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ehci_hcd SW USB2.0 'Enhanced' Host Controller (EHCI) Driver >>
+Fabricante: Linux 4.4.55 ehci_hcd
+Produto: SW USB2.0 'Enhanced' Host Controller (EHCI) Driver
+Número de série: sunxi-ehci
+Identificador do dispositivo: 1D6B-0002
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 2.00
+Velocidade atual: 480 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ehci_hcd SW USB2.0 'Enhanced' Host Controller (EHCI) Driver >>
+Fabricante: Linux 4.4.55 ehci_hcd
+Produto: SW USB2.0 'Enhanced' Host Controller (EHCI) Driver
+Número de série: sunxi-ehci
+Identificador do dispositivo: 1D6B-0002
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 2.00
+Velocidade atual: 480 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ehci_hcd SW USB2.0 'Enhanced' Host Controller (EHCI) Driver >>
+Fabricante: Linux 4.4.55 ehci_hcd
+Produto: SW USB2.0 'Enhanced' Host Controller (EHCI) Driver
+Número de série: sunxi-ehci
+Identificador do dispositivo: 1D6B-0002
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 2.00
+Velocidade atual: 480 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ohci_hcd SW USB2.0 'Open' Host Controller (OHCI) Driver >>
+Fabricante: Linux 4.4.55 ohci_hcd
+Produto: SW USB2.0 'Open' Host Controller (OHCI) Driver
+Número de série: sunxi-ohci
+Identificador do dispositivo: 1D6B-0001
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 1.10
+Velocidade atual: 12 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ohci_hcd SW USB2.0 'Open' Host Controller (OHCI) Driver >>
+Fabricante: Linux 4.4.55 ohci_hcd
+Produto: SW USB2.0 'Open' Host Controller (OHCI) Driver
+Número de série: sunxi-ohci
+Identificador do dispositivo: 1D6B-0001
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 1.10
+Velocidade atual: 12 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ohci_hcd SW USB2.0 'Open' Host Controller (OHCI) Driver >>
+Fabricante: Linux 4.4.55 ohci_hcd
+Produto: SW USB2.0 'Open' Host Controller (OHCI) Driver
+Número de série: sunxi-ohci
+Identificador do dispositivo: 1D6B-0001
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 1.10
+Velocidade atual: 12 Mbps
+
+<< Dispositivos USB - Linux 4.4.55 ohci_hcd SW USB2.0 'Open' Host Controller (OHCI) Driver >>
+Fabricante: Linux 4.4.55 ohci_hcd
+Produto: SW USB2.0 'Open' Host Controller (OHCI) Driver
+Número de série: sunxi-ohci
+Identificador do dispositivo: 1D6B-0001
+Classe de dispositivo: 09 / 00 (Full-Speed Hub)
+Protocolo de dispositivo: 00
+Revisão: 0404
+Versao de USB suportada: 1.10
+Velocidade atual: 12 Mbps
+
+Nenhuma câmera encontrada.
+Nenhum dispositivo OpenCL encontrado.
+Nenhum dispositivo CUDA encontrado.
+Nenhum dispositivo Vulkan encontrado.
+Nenhum dispositivo PCI encontrado.
+
+<<< Temperatura >>>
+
+soc_thermal: 83,0°C
+Bateria: 42,4°C
+
+<<< Sensores >>>
+
+Nenhum sensor encontrado.
+
+<<< Aplicativos >>>
+
+AIDA64: com.finalwire.aida64(v1.85)
+AirScreen: com.ionitech.airscreen(v1.9.5)
+ATV Launcher: ca.dstudio.atvlauncher.free(v0.0.11-free)
+com.assisttools: com.assisttools(v1.2)
+CPU-Z: com.cpuid.cpu_z(v1.41)
+F-Droid: org.fdroid.fdroid(v1.13.1)
+GetApps: com.simple.appstore.flymarket(v2.0.3)
+Host: com.teamviewer.host.market(v15.27.67)
+Kodi: org.xbmc.kodi(v18.0-ALPHA1)
+My Family Cinema: com.valor.mfc.droid.tvapp.generic(v2.1.3)
+Navigation Bar: nu.nav.bar(v2.2.8)
+Netflix: com.netflix.mediaclient(v4.16.1 build 200147)
+One Shade: com.treydev.ons(v18.2.4.3)
+PPP Widget 3: de.draisberghof.pppwidget3(v1.8.3)
+QuickSupport: com.teamviewer.quicksupport.market(v15.27.67)
+QuickSupport Add-On: com.teamviewer.quicksupport.addon.aosp(v10.0.3086)
+Shutdown: com.samiadom.Shutdown(v1.0)
+Termux: com.termux(v0.118.0)
+TV Express: com.mm.droid.livetv.tve(v2.1.5.w)
+YouTube: com.google.android.youtube.tv(v2.05.03)
+ZArchiver: ru.zdevs.zarchiver(v1.0.1)
+
+<<< Codecs >>>
+
+OMX.google.mp3.decoder: audio/mpeg
+OMX.google.amrnb.decoder: audio/3gpp
+OMX.google.amrwb.decoder: audio/amr-wb
+OMX.google.aac.decoder: audio/mp4a-latm
+OMX.google.g711.alaw.decoder: audio/g711-alaw
+OMX.google.g711.mlaw.decoder: audio/g711-mlaw
+OMX.google.vorbis.decoder: audio/vorbis
+OMX.google.opus.decoder: audio/opus
+OMX.google.raw.decoder: audio/raw
+OMX.google.aac.encoder: audio/mp4a-latm
+OMX.google.amrnb.encoder: audio/3gpp
+OMX.google.amrwb.encoder: audio/amr-wb
+OMX.google.flac.encoder: audio/flac
+OMX.google.gsm.decoder: audio/gsm
+OMX.allwinner.video.decoder.avc: video/avc
+OMX.allwinner.video.decoder.hevc: video/hevc
+OMX.allwinner.video.decoder.mjpeg: video/jpeg
+OMX.allwinner.video.decoder.mpeg1: video/mpeg1
+OMX.allwinner.video.decoder.mpeg2: video/mpeg2
+OMX.allwinner.video.decoder.mpeg4: video/mp4v-es
+OMX.allwinner.video.decoder.h263: video/3gpp
+OMX.allwinner.video.decoder.vp6: video/x-vnd.on2.vp6
+OMX.allwinner.video.decoder.vp8: video/x-vnd.on2.vp8
+OMX.allwinner.video.decoder.vc1: video/wvc1
+OMX.allwinner.video.decoder.msmpeg4v1: video/x-ms-mpeg4v1
+OMX.allwinner.video.decoder.msmpeg4v2: video/x-ms-mpeg4v2
+OMX.allwinner.video.decoder.divx: video/divx
+OMX.allwinner.video.decoder.xvid: video/xvid
+OMX.allwinner.video.decoder.s263: video/flv1
+OMX.allwinner.video.decoder.rxg2: video/rvg2
+OMX.allwinner.video.decoder.wmv1: video/wmv1
+OMX.allwinner.video.decoder.wmv2: video/wmv2
+OMX.allwinner.video.encoder.avc: video/avc
+OMX.google.mpeg4.decoder: video/mp4v-es
+OMX.google.h263.decoder: video/3gpp
+OMX.google.h264.decoder: video/avc
+OMX.google.hevc.decoder: video/hevc
+OMX.google.vp8.decoder: video/x-vnd.on2.vp8
+OMX.google.vp9.decoder: video/x-vnd.on2.vp9
+OMX.google.h263.encoder: video/3gpp
+OMX.google.h264.encoder: video/avc
+OMX.google.mpeg4.encoder: video/mp4v-es
+OMX.google.vp8.encoder: video/x-vnd.on2.vp8
+
+<<< Diretórios >>>
+
+Dados: /data
+Pasta Raiz: /system
+Java Home: /system
+Conteúdo Download/Cache: /cache
+
+<< Armazenamento Externo >>
+Armazenamento Externo Primário: /storage/emulated/0
+Arquivos Externos #1: /storage/emulated/0/Android/data/com.finalwire.aida64/files
+Alarmes: /storage/emulated/0/Alarms
+DCIM: /storage/emulated/0/DCIM
+Downloads: /storage/emulated/0/Download
+Filmes: /storage/emulated/0/Movies
+Músicas: /storage/emulated/0/Music
+Notificaçoes: /storage/emulated/0/Notifications
+Imagens: /storage/emulated/0/Pictures
+Podcasts: /storage/emulated/0/Podcasts
+Toques: /storage/emulated/0/Ringtones
+
+<< Pontos de Montagens >>
+/: Dispositivo: rootfs
+Sistema de arquivos: rootfs
+Somente Leitura
+/dev: Dispositivo: tmpfs
+Sistema de arquivos: tmpfs
+Leitura e Gravaçao
+/dev/pts: Dispositivo: devpts
+Sistema de arquivos: devpts
+Leitura e Gravaçao
+/dev/cpuctl: Dispositivo: none
+Sistema de arquivos: cgroup
+Leitura e Gravaçao
+/dev/usb-ffs/adb: Dispositivo: adb
+Sistema de arquivos: functionfs
+Leitura e Gravaçao
+/proc: Dispositivo: proc
+Sistema de arquivos: proc
+Leitura e Gravaçao
+/sys: Dispositivo: sysfs
+Sistema de arquivos: sysfs
+Leitura e Gravaçao
+/sys/fs/selinux: Dispositivo: selinuxfs
+Sistema de arquivos: selinuxfs
+Leitura e Gravaçao
+/sys/kernel/debug: Dispositivo: debugfs
+Sistema de arquivos: debugfs
+Leitura e Gravaçao
+/sys/kernel/debug/tracing: Dispositivo: tracefs
+Sistema de arquivos: tracefs
+Leitura e Gravaçao
+/sys/fs/pstore: Dispositivo: pstore
+Sistema de arquivos: pstore
+Leitura e Gravaçao
+/acct: Dispositivo: none
+Sistema de arquivos: cgroup
+Leitura e Gravaçao
+/mnt: Dispositivo: tmpfs
+Sistema de arquivos: tmpfs
+Leitura e Gravaçao
+/mnt/runtime/default/emulated: Dispositivo: /dev/fuse
+Sistema de arquivos: fuse
+Leitura e Gravaçao
+/mnt/runtime/read/emulated: Dispositivo: /dev/fuse
+Sistema de arquivos: fuse
+Leitura e Gravaçao
+/mnt/runtime/write/emulated: Dispositivo: /dev/fuse
+Sistema de arquivos: fuse
+Leitura e Gravaçao
+/config: Dispositivo: none
+Sistema de arquivos: configfs
+Leitura e Gravaçao
+/system: Dispositivo: /dev/block/by-name/system
+Sistema de arquivos: ext4
+Somente Leitura
+/cache: Dispositivo: /dev/block/by-name/cache
+Sistema de arquivos: ext4
+Leitura e Gravaçao
+/data: Dispositivo: /dev/block/by-name/UDISK
+Sistema de arquivos: ext4
+Leitura e Gravaçao
+/Reserve0: Dispositivo: /dev/block/by-name/Reserve0
+Sistema de arquivos: vfat
+Leitura e Gravaçao
+/storage: Dispositivo: tmpfs
+Sistema de arquivos: tmpfs
+Leitura e Gravaçao
+/storage/emulated: Dispositivo: /dev/fuse
+Sistema de arquivos: fuse
+Leitura e Gravaçao
+/storage/self: Dispositivo: tmpfs
+Sistema de arquivos: tmpfs
+Leitura e Gravaçao
+
+<<< Arquivos do Sistema >>>
+
+Buddy Info: /proc/buddyinfo
+Propriedades da Build: /system/build.prop
+Dispositivos Caracteres & Blocos: /proc/devices
+Linha de comando: /proc/cmdline
+Informaçoes da CPU: /proc/cpuinfo
+Propriedades Padrão: /default.prop
+Domínios da Execuçao: /proc/execdomains
+Arquivos do Sistema: /proc/filesystems
+Dispositivos Frame Buffer: /proc/fb
+Hosts: /system/etc/hosts
+Interrupçoes: /proc/interrupts
+Dispositivos de entrada: /proc/bus/input/devices
+Portas de E/S: /proc/ioports
+Versao do Kernel: /proc/version
+Média de Carga: /proc/loadavg
+Arquivos Bloqueados: /proc/locks
+Informaçoes da Memória: /proc/meminfo
+Mapa da Memória: /proc/iomem
+Drivers Diversos: /proc/misc
+Partiçoes: /proc/partitions
+Slab Info: /proc/slabinfo
+Estatísticas: /proc/stat
+Espaço de Swap: /proc/swaps
+
+<<< /proc/cpuinfo >>>
+
+processor	: 0
+model name	: ARMv7 Processor rev 5 (v7l)
+BogoMIPS	: 48.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xc07
+CPU revision	: 5
+
+processor	: 1
+model name	: ARMv7 Processor rev 5 (v7l)
+BogoMIPS	: 48.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xc07
+CPU revision	: 5
+
+processor	: 2
+model name	: ARMv7 Processor rev 5 (v7l)
+BogoMIPS	: 48.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xc07
+CPU revision	: 5
+
+Hardware	: sun8iw7
+Revision	: 0000
+Serial		: 02407901880404220554
+
+<<< /proc/meminfo >>>
+
+MemTotal:       33554432 kB
+MemFree:          172164 kB
+MemAvailable:     311064 kB
+Buffers:            7308 kB
+Cached:           326720 kB
+SwapCached:        12520 kB
+Active:           348436 kB
+Inactive:         311632 kB
+Active(anon):     164600 kB
+Inactive(anon):   170252 kB
+Active(file):     183836 kB
+Inactive(file):   141380 kB
+Unevictable:        4684 kB
+Mlocked:             256 kB
+HighTotal:        520192 kB
+HighFree:         119028 kB
+LowTotal:       33034240 kB
+LowFree:           53136 kB
+SwapTotal:        131068 kB
+SwapFree:          55432 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        318552 kB
+Mapped:           214716 kB
+Shmem:              4388 kB
+Slab:              36888 kB
+SReclaimable:       9108 kB
+SUnreclaim:        27780 kB
+KernelStack:        7336 kB
+PageTables:        14232 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      643580 kB
+Committed_AS:   19690004 kB
+VmallocTotal:     507904 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         409600 kB
+CmaFree:           69016 kB
+
+<<< Comment >>>
+
+Enter your comment here:
+
